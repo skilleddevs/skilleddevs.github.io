@@ -1,3 +1,8 @@
+---
+Published-to:
+- https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154
+- https://www.linkedin.com/pulse/programming-doesnt-happen-keyboard-also-does-skilleddevs-mfqsf/
+---
 Early in my career, a senior manager told me something that didn’t quite sink in at the time: “We pay you to work 24/7. I want you thinking about work every waking minute.” Eight years later, I finally understand what he meant.
 
 Programming isn’t just about typing code into a file. While writing code is necessary, it’s not at the core of programming. Programming is fundamentally about solving problems—sometimes incredibly complex ones. And problem-solving requires deep thinking, not just time at the keyboard.
